@@ -1,0 +1,21 @@
+# -*- coding = utf-8 -*-
+# @Time : 2020/11/24 17:45
+list_a = []
+list_title = []
+list_time = []
+list_salary = []
+list_positon = []
+list_subsidy = []
+list_company_a = []
+list_company_name = []
+list_type_num = []
+list_company_project = []
+list_require=[]
+list_address=[]
+list_a_2=[]
+list_company_address=[]
+list_company_web=[]
+list_baseurl=[]
+keyword = ""
+Keyword=""
+pagenum = 0
